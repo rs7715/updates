@@ -1,0 +1,17 @@
+{
+  "ver": 5,
+  "title": "تم العثور على تحديث!",
+  "ver_name": "اصدار v5.30",
+  "log_title": "سجل التغييرات :",
+  "msg": "تحديث جديد",
+  "msg_image_url": "",
+  "icon_url": "",
+  "btn_ok": "من تيليجرام",
+  "tg_link": "https://t.me/rakanalshrmany",
+  "btn_no": "الغاء",
+  "btn_tg": "تحميل من الموقع",
+  "link": "https://an2rakan.blogspot.com",
+  "show_toast": 1,
+  "show_dialog": 1,
+  "toast_msg": "تحديث جديد متوفر الآن ♥"
+}
